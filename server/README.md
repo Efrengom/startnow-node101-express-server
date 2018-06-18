@@ -1,0 +1,1 @@
+A simple server that uses the omdb API to get data from
